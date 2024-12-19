@@ -1,5 +1,5 @@
 SALES_TAX_RATE = 0.06625
-COST = [0]
+COST = 0
 
 cost = float(input("Enter the cost of the item:"))
 
